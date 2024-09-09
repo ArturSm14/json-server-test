@@ -2,6 +2,12 @@
     "receivers": [
        
     ],
-    "tickets": [
+    "cabin-tickets": [
+    ],
+    "grandstand-tickets": [
+        
+    ],
+    "premium-tickets":[
+        
     ]
 }
